@@ -1,8 +1,8 @@
 <!-- HEADER ANIMATION -->
-<h1 align="center">Hi 👋, I'm a Generative AI Engineer</h1>
+<h1 align="center">Hi 👋, I'm a tahmina Akter</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C9FF&center=true&vCenter=true&width=700&lines=LLM+Engineer;RAG+Systems+Builder;AI+Agents+Developer;Full-Stack+AI+Engineer;Building+Scalable+AI+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C9FF&center=true&vCenter=true&width=700&lines=Generative+AI+ Engineer;LLM+Engineer;RAG+Systems+Builder;AI+Agents+Developer;Full-Stack+AI+Engineer;Building+Scalable+AI+Products" />
 </p>
 
 ---
@@ -88,9 +88,9 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: your.email@example.com
+- GitHub: https://github.com/tahmina-official
+- LinkedIn: https://www.linkedin.com/in/techtahus/
+- Email: tahmina.usa24@gmail.com
 
 ---
 
