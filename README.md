@@ -1,134 +1,105 @@
+<!-- HEADER ANIMATION -->
+<h1 align="center">Hi 👋, I'm a Generative AI Engineer</h1>
 
-    <header>
-        <section aria-labelledby="summary"
-            style="background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); padding: 10px;">
-            <h2 id="summary">Generative AI Engineer | LLMs | RAG Systems | AI Agents | Full-Stack AI Systems</h2>
-            <p>
-                <img src="https://skillicons.dev/icons?i=py,ts,js,react,angular,django,postgres,mongodb,redis,githubactions,vscode,git,github,html,css"
-                    alt="Full stack tech icons" />
-            </p>
-        </section>
-    </header>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C9FF&center=true&vCenter=true&width=700&lines=LLM+Engineer;RAG+Systems+Builder;AI+Agents+Developer;Full-Stack+AI+Engineer;Building+Scalable+AI+Products" />
+</p>
 
-    <main>
+---
 
-        <section aria-labelledby="programming-languages">
-            <h2 id="programming-languages">Programming Languages</h2>
-            <p>
-                <img src="https://skillicons.dev/icons?i=py,ts,js" alt="Python, TypeScript, JavaScript icons" />
-            </p>
-        </section>
+## 🚀 About Me
 
-        <section aria-labelledby="genai">
-            <h2 id="genai">Generative AI & LLMs</h2>
-            <p>
-                <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"
-                    alt="OpenAI API" />
-                <img src="https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=white"
-                    alt="Claude API" />
-                <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"
-                    alt="Gemini API" />
-                <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"
-                    alt="Prompt Engineering" />
-                <img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge" alt="RAG" />
-                <img src="https://img.shields.io/badge/AI_Agents-7B61FF?style=for-the-badge" alt="AI Agents" />
-                <img src="https://img.shields.io/badge/Function_Calling-10A37F?style=for-the-badge"
-                    alt="Function Calling" />
-                <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge" alt="MCP" />
-            </p>
-        </section>
+- 🤖 Building **LLM-powered applications & AI agents**
+- 🧠 Focused on **RAG pipelines & intelligent systems**
+- ⚙️ Full-stack developer with modern architectures
+- 📦 Working with APIs, microservices, and scalable backend systems
 
-        <section aria-labelledby="frameworks">
-            <h2 id="frameworks">LLM Frameworks & Orchestration</h2>
-            <p>
-                <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"
-                    alt="LangChain" />
-                <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
-                <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge" alt="LlamaIndex" />
-                <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"
-                    alt="Hugging Face" />
-            </p>
-        </section>
+---
 
-        <section aria-labelledby="backend">
-            <h2 id="backend">Backend & APIs</h2>
-            <p>
-                <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
-                    alt="Django" />
-                <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge" alt="RESTful APIs" />
-                <img src="https://img.shields.io/badge/Microservices_Architecture-FF6B35?style=for-the-badge"
-                    alt="Microservices Architecture" />
-            </p>
-        </section>
+## 🧠 Tech Stack
 
-        <section aria-labelledby="frontend">
-            <h2 id="frontend">Frontend</h2>
-            <p>
-                <img src="https://skillicons.dev/icons?i=react,angular,html,css" alt="Frontend technologies" />
-            </p>
-        </section>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-        <section aria-labelledby="databases">
-            <h2 id="databases">Databases & Storage</h2>
-            <p>
-                <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Databases" />
-            </p>
-        </section>
+---
 
-        <section aria-labelledby="vector-db">
-            <h2 id="vector-db">Vector Databases</h2>
-            <p>
-                <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"
-                    alt="Pinecone" />
-                <img src="https://img.shields.io/badge/ChromaDB-1C1C1C?style=for-the-badge&logoColor=white"
-                    alt="ChromaDB" />
-                <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge&logoColor=white" alt="FAISS" />
-            </p>
-        </section>
+### 🤖 AI / LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-        <section aria-labelledby="architecture">
-            <h2 id="architecture">State Management & Architecture</h2>
-            <p>
-                <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white"
-                    alt="NgRx" />
-                <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"
-                    alt="RxJS" />
-                <img src="https://img.shields.io/badge/Nx_Monorepo-143055?style=for-the-badge&logo=nx&logoColor=white"
-                    alt="Nx Monorepo" />
-                <img src="https://img.shields.io/badge/Micro--Frontend_Architecture-FF6B35?style=for-the-badge"
-                    alt="Micro Frontend Architecture" />
-                <img src="https://img.shields.io/badge/Module_Federation-1E90FF?style=for-the-badge"
-                    alt="Module Federation" />
-            </p>
-        </section>
+---
 
-        <section aria-labelledby="mlops">
-            <h2 id="mlops">MLOps / CI-CD</h2>
-            <p>
-                <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"
-                    alt="GitHub Actions CI/CD" />
-            </p>
-        </section>
+### ⚙️ Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B35?style=for-the-badge)
 
-        <section aria-labelledby="testing">
-            <h2 id="testing">Testing & Quality</h2>
-            <p>
-                <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white"
-                    alt="Jasmine" />
-                <img src="https://img.shields.io/badge/Karma-56C5A8?style=for-the-badge&logo=karma&logoColor=black"
-                    alt="Karma" />
-            </p>
-        </section>
+---
 
-        <section aria-labelledby="tools">
-            <h2 id="tools">Tools</h2>
-            <p>
-                <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Development tools" />
-            </p>
-        </section>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-    </main>
+---
 
-    <footer>
-        <p>&copy; 2026 My Tech Profile</p>
-    </footer>
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Current Focus
+
+- Building AI Agents 🤖
+- RAG-based enterprise systems 📚
+- Scalable backend architectures ⚙️
+- LLM orchestration workflows 🧠
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- Email: your.email@example.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  🚀 “Building intelligent systems for the future”
+</p>
