@@ -1,9 +1,12 @@
 <!-- HEADER ANIMATION -->
-<h1 align="center">Hi 👋, I'm a Tahmina Akter</h1>
+<h1 align="center">Hi 👋, I'm a tahmina Akter</h1>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C9FF&center=true&vCenter=true&width=700&lines=Generative+AI+Engineer;LLM+Engineer;RAG+Systems+Builder;AI+Agents+Developer;Full-Stack+AI+Engineer;Building+Scalable+AI+Products" />
 </p>
+
 ---
 
 ## 🚀 About Me
@@ -55,15 +58,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahmina-official&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmina-official&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmina-official&layout=compact&theme=tokyonight" />
 </p>
 
 ---
