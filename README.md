@@ -53,10 +53,9 @@
 
 ---
 
-## 🔥 GitHub Activity
+## 🔥 MLOps / CI-CD
 
 <section aria-labelledby="mlops">
-    <h2 id="mlops">MLOps / CI-CD</h2>
         <p>
             <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"
                     alt="GitHub Actions CI/CD" />
@@ -83,7 +82,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+      <img src="./Banner.png" alt="Full stack tech icons" width="1400 px">
 </p>
 
 ---
