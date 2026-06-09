@@ -66,6 +66,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmina-official&layout=compact&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tahmina-official&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
