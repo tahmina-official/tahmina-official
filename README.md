@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm a Tahmina Akter</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmina-official&theme=tokyonight" />
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C9FF&center=true&vCenter=true&width=700&lines=
-🤖+Generative+AI+Engineer;
-Building+RAG+systems+%26+AI+agents;
-LLMs+%7C+Full-Stack+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C9FF&center=true&vCenter=true&width=700&lines=Generative+AI+Engineer;LLM+Engineer;RAG+Systems+Builder;AI+Agents+Developer;Full-Stack+AI+Engineer;Building+Scalable+AI+Products" />
 </p>
 
 ---
