@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, My Name's Tahmina Akter</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C9FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;AI/+Agentic+Systems;Backend+&+Distributed+Systems;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C9FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;AI/+Agentic+Systems;" />
 </p>
 <p>
 I'm a Senior Software Engineer focused on building production software across AI agents, backend systems, APIs, and distributed services.
