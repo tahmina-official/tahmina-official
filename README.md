@@ -92,7 +92,7 @@ I enjoy working at the intersection of software engineering and AI, especially t
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-25A162?style=for-the-badge)
 ![Integration Testing](https://img.shields.io/badge/Integration%20Testing-2088FF?style=for-the-badge)
 
-**Architecture & Integrations:** `Enterprise API Integrations` · `Solution Architecture`
+**Architecture & Integrations:** `Enterprise API Integrations`·`Solution Architecture`
 ---
 
 ### Version Control
@@ -112,10 +112,10 @@ I enjoy working at the intersection of software engineering and AI, especially t
 > From AI agents that orchestrate tools and APIs to backend systems that handle complex workflows, I'm interested in turning **LLMs into reliable, production-ready software** that can reason, collaborate with other systems, and get real work done.
 ---
 
-🌎 Let's Connect
-💼 linkedin.com/in/techtahus
-💻 github.com/tahmina-official
-📧 tahmina.usa24@gmail.com
+## 🌎 Let's Connect
+-💼 linkedin.com/in/techtahus
+-💻 github.com/tahmina-official
+-📧 tahmina.usa24@gmail.com
 ---
 
 <p align="center">
