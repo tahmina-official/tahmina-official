@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C9FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;AI/+Agentic+Systems;Backend+&+Distributed+Systems;" />
 </p>
 <p>
-I'm a Senior Software Developer focused on building production software across AI agents, backend systems, APIs, and distributed services.
+I'm a Senior Software Engineer focused on building production software across AI agents, backend systems, APIs, and distributed services.
 
 Currently, I'm working on agentic AI systems that can use tools, call enterprise APIs, coordinate multi-step workflows, and take real actions—not just generate responses.
 
@@ -92,8 +92,7 @@ I enjoy working at the intersection of software engineering and AI, especially t
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-25A162?style=for-the-badge)
 ![Integration Testing](https://img.shields.io/badge/Integration%20Testing-2088FF?style=for-the-badge)
 
-**Architecture & Integrations:**  
-`Enterprise API Integrations` · `Solution Architecture`
+**Architecture & Integrations:** `Enterprise API Integrations` · `Solution Architecture`
 ---
 
 ### Version Control
@@ -122,10 +121,4 @@ I enjoy working at the intersection of software engineering and AI, especially t
 
 <p align="center">
       <img src="./Banner.png" alt="Full stack tech icons" width="1400 px">
-</p>
-
----
-
-<p align="center">
-  🚀 “Building intelligent systems for the future”
 </p>
