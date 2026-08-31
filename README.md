@@ -113,7 +113,19 @@ I enjoy working at the intersection of software engineering and AI, especially t
 ---
 
 ## 🌎 Let's Connect
-💼 linkedin.com/in/techtahus · 💻 github.com/tahmina-official · 📧 tahmina.usa24@gmail.com
+<p align="center">
+  <a href="https://github.com/tahmina-official">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub"/> GitHub
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/techtahus/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn"/> LinkedIn
+  </a>
+  &nbsp;•&nbsp;
+  <a href="mailto:tahmina.usa24@gmail.com">
+    ✉️ Email
+  </a>
+</p>
 ---
 
 <p align="center">
