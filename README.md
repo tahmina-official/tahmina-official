@@ -113,20 +113,20 @@ I enjoy working at the intersection of software engineering and AI, especially t
 ---
 
 ## 🌎 Let's Connect
+
 <p align="center">
-  <a href="https://github.com/tahmina-official" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub"/> GitHub
+  <a href="https://github.com/tahmina-official" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" alt="GitHub"/>
   </a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/techtahus/" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn"/> LinkedIn
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/techtahus/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn"/>
   </a>
-  &nbsp;•&nbsp;
-  <a href="mailto:tahmina.usa24@gmail.com" target="blank">
-    ✉️ Email
+  &nbsp;&nbsp;
+  <a href="mailto:tahmina.usa24@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="24" alt="Email"/>
   </a>
 </p>
----
 
 <p align="center">
       <img src="./BannerNew.png" alt="Full stack tech icons" width="1400 px">
