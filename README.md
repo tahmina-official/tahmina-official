@@ -15,144 +15,78 @@ I enjoy working at the intersection of software engineering and AI, especially t
 
 ---
 
-🚀 What I Work On
-🤖 AI Agents — tool/function calling, agent orchestration, multi-step workflows
-🧠 RAG & LLM Applications — embeddings, semantic search, evaluation
-🔎 AI-Powered Search — OpenAI embeddings, pgvector, semantic product search
-⚙️ Backend Engineering — FastAPI, Node.js, Express, REST APIs
-🏗️ System Design — microservices, async programming, service decomposition
-☁️ Cloud & Infrastructure — AWS, Docker, Kubernetes, CI/CD
-📊 AI Observability & Evaluation — Langfuse, LangSmith, LLM evaluation
-🔗 Enterprise Integrations — APIs, webhooks, service-to-service communication
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-🛠️ Tech Stack
-Languages
+### 🤖 AI / LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-Python TypeScript JavaScript SQL HTML CSS
+---
 
-Backend
+### ⚙️ Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B35?style=for-the-badge)
 
-FastAPI Node.js Express REST APIs JWT OAuth
+---
 
-Frontend
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-React React + TypeScript
+---
 
-Databases
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-PostgreSQL MongoDB Redis pgvector
+---
 
-AI / ML
+## 🔥 MLOps / CI-CD
 
-OpenAI API RAG Embeddings LLM Evaluation AI Agents
-Tool / Function Calling Agent Orchestration NLP NumPy Pandas scikit-learn
+<section aria-labelledby="mlops">
+        <p>
+            <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"
+                    alt="GitHub Actions CI/CD" />
+        </p>
+</section>
 
-Infrastructure & Engineering
+---
 
-Docker Kubernetes AWS CI/CD Microservices Async Programming System Design
+## 🧩 Current Focus
 
-AI Observability
+- Building AI Agents 🤖
+- RAG-based enterprise systems 📚
+- Scalable backend architectures ⚙️
+- LLM orchestration workflows 🧠
 
-Langfuse LangSmith
+---
 
-🤖 Featured Work
-Enterprise AI Ops Assistant
+## 📫 Connect With Me
 
-An agentic system designed to handle real enterprise workflows by coordinating multiple internal services.
+- GitHub: https://github.com/tahmina-official
+- LinkedIn: https://www.linkedin.com/in/techtahus/
+- Email: tahmina.usa24@gmail.com
 
-The agent can:
+---
 
-Check inventory
-Check order status
-Create returns
-Call multiple downstream APIs
-Use tools/function calling to take real actions
-Coordinate multi-step tasks
-Use webhooks for service integration
-Track agent behavior through observability
+<p align="center">
+      <img src="./Banner.png" alt="Full stack tech icons" width="1400 px">
+</p>
 
-Tech: AI Agents Tool Calling Agent Orchestration Enterprise APIs Webhooks Kubernetes Langfuse
+---
 
-🔎 AI Product Search & Sizing Assistant
-
-Built an AI-powered product search experience using semantic search rather than traditional keyword matching.
-
-For example, users can search for products using natural language such as:
-
-"waterproof jacket under $100"
-
-The system uses OpenAI embeddings + pgvector to retrieve semantically relevant products and a RAG pipeline to generate responses.
-
-I also built an evaluation script that compares model output against a golden dataset, making it possible to evaluate quality systematically instead of relying only on subjective manual review.
-
-Tech: Python OpenAI API Embeddings pgvector RAG LLM Evaluation
-
-⚡ Order Fulfillment & Pricing Engine
-
-Decomposed a growing monolithic order system into separate Order and Pricing services.
-
-The architecture uses asynchronous communication through Redis Pub/Sub, with pricing logic isolated into its own service.
-
-The pricing service supports business rules such as:
-
-Bulk discounts
-Surge pricing
-Dynamic pricing
-
-Tech: Microservices Redis Pub/Sub Async Programming System Design
-
-💼 Experience
-
-Senior Software Developer — Agentic / AI
-April 2024 – Present
-
-Building production AI systems involving agents, tool calling, enterprise API integrations, webhooks, Kubernetes, and AI observability.
-
-Senior Software Developer — AI/ML Focus
-June 2022 – March 2024
-
-Worked on semantic search, embeddings, RAG pipelines, LLM evaluation, and data preparation.
-
-Software Engineer III
-February 2020 – May 2022
-
-Worked on microservice architecture, dynamic pricing, Redis-based asynchronous communication, AWS, CI/CD, and system design.
-
-Software Engineer II
-July 2018 – January 2020
-
-Built order and returns workflows using React, TypeScript, Node.js, Express, MongoDB, Docker, JWT authentication, and automated testing.
-
-Software Engineer
-May 2016 – June 2018
-
-Built inventory management systems using FastAPI, PostgreSQL, and React.
-
-🎓 Education
-
-B.Sc. in Computer Science & Engineering
-Premier University — Chattogram, Bangladesh
-
-CGPA: 3.80 / 4.00
-
-🏆 University Topper — 1st Rank, CSE Department
-
-👩‍💻 Mentorship
-
-I've also worked as a Computer Science Tutor, helping students with:
-
-Programming
-Data Structures & Algorithms
-Career Advice
-🌎 Let's Connect
-💼 LinkedIn: linkedin.com/in/techtahus
-💻 GitHub: github.com/tahmina-official
-📧 Email: tahmina.usa24@gmail.com
-💡 Currently interested in
-
-Senior AI Engineer · AI Agent Engineer · Senior Backend Engineer · Applied AI · LLM Applications · Distributed Systems
-
-Building software is interesting.
-Building software that can reason, use tools, interact with other systems, and actually get things done is even more interesting.
+<p align="center">
+  🚀 “Building intelligent systems for the future”
+</p>
