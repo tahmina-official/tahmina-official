@@ -113,12 +113,11 @@ I enjoy working at the intersection of software engineering and AI, especially t
 ---
 
 🌎 Let's Connect
-💼 LinkedIn: linkedin.com/in/techtahus
-💻 GitHub: github.com/tahmina-official
-📧 Email: tahmina.usa24@gmail.com
-
+💼 linkedin.com/in/techtahus
+💻 github.com/tahmina-official
+📧 tahmina.usa24@gmail.com
 ---
 
 <p align="center">
-      <img src="./Banner.png" alt="Full stack tech icons" width="1400 px">
+      <img src="./BannerNew.png" alt="Full stack tech icons" width="1400 px">
 </p>
