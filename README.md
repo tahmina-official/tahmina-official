@@ -116,7 +116,7 @@ I enjoy working at the intersection of software engineering and AI, especially t
 
 <p align="center">
   <a href="https://github.com/tahmina-official" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" alt="GitHub" style="filter: invert(1);"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/techtahus/" target="_blank">
