@@ -129,5 +129,5 @@ I enjoy working at the intersection of software engineering and AI, especially t
 </p>
 
 <p align="center">
-      <img src="./BannerNew.png" alt="Full stack tech icons" width="1400 px">
+      <img src="./Banner.png" alt="Full stack tech icons" width="1400 px">
 </p>
