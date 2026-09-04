@@ -118,11 +118,11 @@ I enjoy working at the intersection of software engineering and AI, especially t
   <a href="https://github.com/tahmina-official" target="_blank">
     <img src="https://cdn.simpleicons.org/github/ffffff" width="24" alt="GitHub">
   </a>
-
+&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/techtahus/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn"/>
   </a>
-
+&nbsp;&nbsp;
   <a href="mailto:tahmina.usa24@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/ffffff" width="24" alt="Gmail">
   </a>
